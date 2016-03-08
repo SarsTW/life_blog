@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://sarstw.github.io/life_blog/sitemap.xml 
