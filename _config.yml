@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://sarstw.github.io/life_blog
+url: http://life.sars.tw
 title: Life of Sars
 subtitle: 生活、旅遊、美食
 author: Sars
@@ -95,7 +95,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-757654-2
 
 # Facebook Like
 facebook_like: true
