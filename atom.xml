@@ -4,7 +4,7 @@
   <title><![CDATA[Sars Life]]></title>
   <link href="http://sarstw.github.io/life_blog/atom.xml" rel="self"/>
   <link href="http://sarstw.github.io/life_blog/"/>
-  <updated>2016-03-08T17:31:02+08:00</updated>
+  <updated>2016-03-08T17:33:18+08:00</updated>
   <id>http://sarstw.github.io/life_blog/</id>
   <author>
     <name><![CDATA[Sars]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://sarstw.github.io/life_blog/blog/2016/03/08/first-post/"/>
+    <link href="http://sarstw.github.io/life_blog/life_blog/2016/03/08/first-post/"/>
     <updated>2016-03-08T17:28:41+08:00</updated>
-    <id>http://sarstw.github.io/life_blog/blog/2016/03/08/first-post</id>
+    <id>http://sarstw.github.io/life_blog/life_blog/2016/03/08/first-post</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
