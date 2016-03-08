@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sars Life]]></title>
+  <title><![CDATA[Life of Sars]]></title>
   <link href="http://sarstw.github.io/life_blog/atom.xml" rel="self"/>
   <link href="http://sarstw.github.io/life_blog/"/>
-  <updated>2016-03-08T17:47:17+08:00</updated>
+  <updated>2016-03-08T18:05:49+08:00</updated>
   <id>http://sarstw.github.io/life_blog/</id>
   <author>
     <name><![CDATA[Sars]]></name>
@@ -18,7 +18,9 @@
     <link href="http://sarstw.github.io/life_blog/blog/2016/03/08/first-post/"/>
     <updated>2016-03-08T17:28:41+08:00</updated>
     <id>http://sarstw.github.io/life_blog/blog/2016/03/08/first-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>用 Octopress 來寫部落格</h2>
+
+<p>懶得再架一個 WordPress 了，乾脆用常見的 GitHub Pages 加上 Octopress 方式，以 Markdown 語法來寫內容，再用 Octopress 來產生靜態網站。</p>
 ]]></content>
   </entry>
   
