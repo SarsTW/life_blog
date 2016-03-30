@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://life.sars.tw/blog/2016/03/30/you-ju-xin-xiang-(zhuan-yong-xin-xiang-)shou-dao-gua-hao-xin-jian-de-dian-zi-you-jian-e-mail-tong-zhi/</loc>
+<lastmod>2016-03-30T12:05:52+08:00</lastmod>
+</url>
+<url>
 <loc>http://life.sars.tw/blog/2016/03/08/first-post/</loc>
 <lastmod>2016-03-08T17:28:41+08:00</lastmod>
 </url>
@@ -9,5 +13,14 @@
 </url>
 <url>
 <loc>http://life.sars.tw/</loc>
+</url>
+<url>
+<loc>http://life.sars.tw/blog/categories/postbox/</loc>
+</url>
+<url>
+<loc>http://life.sars.tw/blog/categories/zhuan-yong-xin-xiang/</loc>
+</url>
+<url>
+<loc>http://life.sars.tw/blog/categories/you-zheng-xin-xiang/</loc>
 </url>
 </urlset>
